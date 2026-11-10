@@ -30,6 +30,7 @@ COPY seed ./seed
 RUN mkdir -p /data
 
 EXPOSE 3000
-VOLUME ["/data"]
 
+# Railway manages volumes from its dashboard; do not declare VOLUME here.
+# Mount the Railway volume at /data and keep DATA_DIR=/data.
 CMD ["node", "server/index.js"]
