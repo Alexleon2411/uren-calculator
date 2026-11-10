@@ -1,0 +1,3806 @@
+{
+  "generatedAt": "2026-11-10T08:46:16",
+  "source": "C:\\Users\\alejandro.leon\\Documents\\MAGVIEW uren",
+  "days": [
+    {
+      "date": "2025-05-01",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Daily meeting",
+          "hours": 0.25
+        }
+      ]
+    },
+    {
+      "date": "2025-05-02",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Daily meeting",
+          "hours": 0.25
+        }
+      ]
+    },
+    {
+      "date": "2025-05-05",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Daily meeting",
+          "hours": 0.25
+        }
+      ]
+    },
+    {
+      "date": "2025-05-06",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Daily meeting",
+          "hours": 0.25
+        }
+      ]
+    },
+    {
+      "date": "2025-05-07",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "backlog refinement + daily meeting",
+          "hours": 1
+        }
+      ]
+    },
+    {
+      "date": "2025-05-08",
+      "kind": "off",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2025-05-09",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Daily meeting",
+          "hours": 0.25
+        }
+      ]
+    },
+    {
+      "date": "2025-05-12",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket Bug 8866 (create Account - country list) + daily meeting",
+          "hours": 8.5
+        }
+      ]
+    },
+    {
+      "date": "2025-05-13",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket Bug 8866 (create Account - country list) + daily meeting",
+          "hours": 8.5
+        }
+      ]
+    },
+    {
+      "date": "2025-05-14",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket Bug 8866 (create Account - country list) + daily meeting",
+          "hours": 8.5
+        }
+      ]
+    },
+    {
+      "date": "2025-05-15",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "configurating SQL data service locally + daily Meeting",
+          "hours": 2.5
+        }
+      ]
+    },
+    {
+      "date": "2025-05-16",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "configurating SQL data service locally + daily Meeting",
+          "hours": 2.5
+        }
+      ]
+    },
+    {
+      "date": "2025-05-19",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Daily meeting",
+          "hours": 0.25
+        }
+      ]
+    },
+    {
+      "date": "2025-05-20",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Daily meeting",
+          "hours": 0.25
+        }
+      ]
+    },
+    {
+      "date": "2025-05-21",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Daily meeting",
+          "hours": 0.25
+        }
+      ]
+    },
+    {
+      "date": "2025-05-22",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Daily meeting",
+          "hours": 0.25
+        }
+      ]
+    },
+    {
+      "date": "2025-05-23",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Daily meeting",
+          "hours": 0.25
+        }
+      ]
+    },
+    {
+      "date": "2025-05-26",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket User Story 8393 (display historical synoptic H2 equipment) + daily Meeting",
+          "hours": 8.5
+        }
+      ]
+    },
+    {
+      "date": "2025-05-27",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket User Story 8393 (display historical synoptic H2 equipment) + daily Meeting",
+          "hours": 8.5
+        }
+      ]
+    },
+    {
+      "date": "2025-05-28",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket User Story 8393 (display historical synoptic H2 equipment) + daily Meeting",
+          "hours": 8.5
+        }
+      ]
+    },
+    {
+      "date": "2025-05-29",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Merge request + daily meeting",
+          "hours": 2.5
+        }
+      ]
+    },
+    {
+      "date": "2025-05-30",
+      "kind": "off",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2025-06-02",
+      "kind": "vacation",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2025-06-03",
+      "kind": "vacation",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2025-06-04",
+      "kind": "vacation",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2025-06-05",
+      "kind": "vacation",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2025-06-06",
+      "kind": "vacation",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2025-06-09",
+      "kind": "off",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2025-06-10",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Daily meeting",
+          "hours": 0.25
+        }
+      ]
+    },
+    {
+      "date": "2025-06-11",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Daily meeting",
+          "hours": 0.25
+        }
+      ]
+    },
+    {
+      "date": "2025-06-12",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Daily meeting",
+          "hours": 0.25
+        }
+      ]
+    },
+    {
+      "date": "2025-06-13",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Daily meeting",
+          "hours": 0.25
+        }
+      ]
+    },
+    {
+      "date": "2025-06-16",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket TS18 - Add a Idempotency-Key in the header of the resquest /api/v2tickets{ticketId}",
+          "hours": 8.5
+        }
+      ]
+    },
+    {
+      "date": "2025-06-17",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket TS18 - Add a Idempotency-Key in the header of the resquest /api/v2tickets{ticketId}",
+          "hours": 8.5
+        }
+      ]
+    },
+    {
+      "date": "2025-06-18",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket TS18 - Add a Idempotency-Key in the header of the resquest /api/v2tickets{ticketId}",
+          "hours": 8.5
+        }
+      ]
+    },
+    {
+      "date": "2025-06-19",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket TS18 - Add a Idempotency-Key in the header of the resquest /api/v2tickets{ticketId}",
+          "hours": 0
+        }
+      ]
+    },
+    {
+      "date": "2025-06-20",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket TS18 - Add a Idempotency-Key in the header of the resquest /api/v2tickets{ticketId}",
+          "hours": 0
+        }
+      ]
+    },
+    {
+      "date": "2025-06-23",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket [DEV & QA & INT] Alarms - Historical alarms not ingested",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-06-24",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket [DEV & QA & INT] Alarms - Historical alarms not ingested",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-06-25",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket [DEV & QA & INT] Alarms - Historical alarms not ingested",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-06-26",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket [DEV & QA & INT] Alarms - Historical alarms not ingested",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-06-27",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket [DEV & QA & INT] Alarms - Historical alarms not ingested",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-06-30",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket [DEV & QA & INT] Alarms - Historical alarms not ingested",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-07-01",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket [PROD] Alarms - Alarms doesn't closed",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-07-02",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket [PROD] Alarms - Alarms doesn't closed",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-07-03",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket [PROD] Alarms - Alarms doesn't closed",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-07-04",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket [PROD] Alarms - Alarms doesn't closed",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-07-07",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket [PROD] Alarms - Alarms doesn't closed",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-07-08",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket [PROD] Alarms - Alarms doesn't closed",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-07-09",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket [PROD] Alarms - Alarms doesn't closed",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-07-10",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket [ALL] Alarms - Historical alarms from ElysOnline are still open in MagView",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-07-11",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket [ALL] Alarms - Historical alarms from ElysOnline are still open in MagView",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-07-14",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket [ALL] Alarms - Historical alarms from ElysOnline are still open in MagView",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-07-15",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket [ALL] Alarms - Historical alarms from ElysOnline are still open in MagView",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-07-16",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket [ALL] Alarms - Historical alarms from ElysOnline are still open in MagView",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-07-17",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket [ALL] Alarms - Historical alarms from ElysOnline are still open in MagView",
+          "hours": 0
+        }
+      ]
+    },
+    {
+      "date": "2025-07-18",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket [ALL] Alarms - Historical alarms from ElysOnline are still open in MagView",
+          "hours": 0
+        }
+      ]
+    },
+    {
+      "date": "2025-07-21",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2025-07-22",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket [ALL] Alarms - Historical alarms from ElysOnline are still open in MagView",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-07-23",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket [ALL] Alarms - Historical alarms from ElysOnline are still open in MagView",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-07-24",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket Closing Alarms - restore the feature to close alarms open after 30 days",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-07-25",
+      "kind": "off",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2025-07-28",
+      "kind": "off",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2025-07-29",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket Closing Alarms - restore the feature to close alarms open after 30 days",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-07-30",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket Closing Alarms - restore the feature to close alarms open after 30 days",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-07-31",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket Closing Alarms - restore the feature to close alarms open after 30 days",
+          "hours": 0
+        }
+      ]
+    },
+    {
+      "date": "2025-08-01",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket Closing Alarms - restore the feature to close alarms open after 30 days",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-08-04",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket Closing Alarms - restore the feature to close alarms open after 30 days",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-08-05",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket Closing Alarms - restore the feature to close alarms open after 30 days",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-08-06",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket Closing Alarms - restore the feature to close alarms open after 30 days",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-08-07",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket Closing Alarms - restore the feature to close alarms open after 30 days",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-08-08",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket Closing Alarms - restore the feature to close alarms open after 30 days",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-08-11",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket [ALL] Alarms - Historical alarms from ElysOnline are still open in MagView",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-08-12",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket [ALL] Alarms - Historical alarms from ElysOnline are still open in MagView",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-08-13",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket [ALL] Alarms - Historical alarms from ElysOnline are still open in MagView",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-08-14",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket [ALL] Alarms - Historical alarms from ElysOnline are still open in MagView",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-08-15",
+      "kind": "off",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2025-08-18",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket [ALL] Alarms - Historical alarms from ElysOnline are still open in MagView",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-08-19",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket [ALL] Alarms - Historical alarms from ElysOnline are still open in MagView",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-08-20",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket [ALL] Alarms - Historical alarms from ElysOnline are still open in MagView",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-08-21",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket [ALL] Alarms - Historical alarms from ElysOnline are still open in MagView",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-08-22",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket [ALL] Alarms - Historical alarms from ElysOnline are still open in MagView",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-08-25",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2025-08-26",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2025-08-27",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2025-08-28",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2025-08-29",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2025-09-01",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2025-09-02",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2025-09-03",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2025-09-04",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2025-09-05",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2025-09-08",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2025-09-09",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2025-09-10",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "working on ticket [ALL] Alarms - Historical alarms from ElysOnline are still open in MagView",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-09-11",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[QA] H2 module - Error while retrieving graphs",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-09-12",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[ALL] Alarms - Opening date alarms in the past",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-09-15",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "TS03 - Implemented Spanish translation",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-09-16",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "TS03 - Implemented Spanish translation",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-09-17",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "TS03 - Implemented Spanish translation",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-09-18",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2025-09-19",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2025-09-22",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "TS03 - Implemented Spanish translation",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-09-23",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Zendesk ticket - Add a comment on the ticket when closing the alarm",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-09-24",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Zendesk ticket - Add a comment on the ticket when closing the alarm",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-09-25",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Zendesk ticket - Add a comment on the ticket when closing the alarm",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-09-26",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "TS03 - Implemented Spanish translation",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-09-29",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Zendesk ticket - Add a comment on the ticket when opening a similar alarm and the ticket isn't closed",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-09-30",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Zendesk ticket - Add a comment on the ticket when opening a similar alarm and the ticket isn't closed",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-10-01",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Zendesk ticket - Add a comment on the ticket when opening a similar alarm and the ticket isn't closed",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-10-02",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Zendesk ticket - Add a comment on the ticket when opening a similar alarm and the ticket isn't closed",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-10-03",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Zendesk ticket - Add a comment on the ticket when opening a similar alarm and the ticket isn't closed",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-10-06",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Zendesk ticket - Add a comment on the ticket when opening a similar alarm and the ticket isn't closed",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-10-07",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Zendesk ticket - Add a comment on the ticket when opening a similar alarm and the ticket isn't closed",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-10-08",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "wrong implementation of Spanish translation",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-10-09",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[QA] H2 Module - Problems in creating alarms from word telemetry",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-10-10",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[QA] H2 Module - Problems in creating alarms from word telemetry",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-10-13",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[QA] H2 Module - Problems in creating alarms from word telemetry",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-10-14",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[QA] H2 Module - Problems in creating alarms from word telemetry",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-10-15",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[QA] H2 Module - Problems in creating alarms from word telemetry",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-10-16",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Zendesk ticket - Add a comment on the ticket when closing the alarm",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-10-17",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Zendesk ticket - Add a comment on the ticket when closing the alarm",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-10-20",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Zendesk ticket - Add a comment on the ticket when closing the alarm",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-10-21",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Zendesk ticket - Add a comment on the ticket when closing the alarm",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-10-22",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Zendesk ticket - Add a comment on the ticket when closing the alarm",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-10-23",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Zendesk ticket - Add a comment on the ticket when closing the alarm",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-10-24",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Zendesk ticket - Add a comment on the ticket when closing the alarm",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-10-27",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Zendesk ticket - Add a comment on the ticket when closing the alarm",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-10-28",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Zendesk ticket - Add a comment on the ticket when closing the alarm",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-10-29",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "deployment of every comment for zendesk comment into release/1.35",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-10-30",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Zendesk ticket - Add a comment on the ticket when closing the alarm",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-10-31",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Zendesk ticket - Add a comment on the ticket when closing the alarm",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-11-03",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT12_US13 - Unlock a change price request unacknowledge by Elys",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-11-04",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT12_US13 - Unlock a change price request unacknowledge by Elys",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-11-05",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT12_US13 - Unlock a change price request unacknowledge by Elys",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-11-06",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-11-07",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-11-10",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "TS10b - Edit the permission of the GET /alarm-configurations/{id}",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-11-11",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2025-11-12",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "TS10b - Edit the permission of the GET /alarm-configurations/{id}",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-11-13",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT12_US13 - Unlock a change price request unacknowledge by Elys",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-11-14",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "TS10b - Edit the permission of the GET /alarm-configurations/{id}",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-11-17",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "TS10b - Edit the permission of the GET /alarm-configurations/{id}",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-11-18",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Update Translation excel file",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-11-19",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "TS10b - Edit the permission of the GET /alarm-configurations/{id}",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-11-20",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "TS10b - Edit the permission of the GET /alarm-configurations/{id}",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-11-21",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Create Unit Test for AlarmConfigurationService",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-11-24",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2025-11-25",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2025-11-26",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2025-11-27",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2025-11-28",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2025-12-01",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT07_US05b - PBI - Display DateTime in local format regarding the user configuration",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-12-02",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT07_US05b - PBI - Display DateTime in local format regarding the user configuration",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-12-03",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT07_US05b - PBI - Display DateTime in local format regarding the user configuration",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-12-04",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT07_US05b - PBI - Display DateTime in local format regarding the user configuration",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-12-05",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT07_US05b - PBI - Display DateTime in local format regarding the user configuration",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-12-08",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT07_US05b - PBI - Display DateTime in local format regarding the user configuration",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-12-09",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "meetings/problems witth the configuration of local Repositories",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-12-10",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[DEV-INT-QA] H2 - Equipment detail sometimes empty",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-12-11",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[DEV-INT-QA] H2 - Equipment detail sometimes empty",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-12-12",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[ALL ] Alarm history - Incomplete process of closing old alarms",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-12-15",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[ALL ] Alarm history - Incomplete process of closing old alarms",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-12-16",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[ALL ] Alarm history - Incomplete process of closing old alarms",
+          "hours": 0
+        }
+      ]
+    },
+    {
+      "date": "2025-12-17",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[ALL ] Alarm history - Incomplete process of closing old alarms",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-12-18",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[ALL ] Alarm history - Incomplete process of closing old alarms",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-12-19",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[ALL ] Alarm history - Incomplete process of closing old alarms",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-12-22",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2025-12-23",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2025-12-24",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2025-12-25",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2025-12-26",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2025-12-29",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2025-12-30",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2025-12-31",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2026-01-01",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2026-01-02",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2026-01-05",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2026-01-06",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2026-01-07",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2026-01-08",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2026-01-09",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[PROD] - Lot of timeout exceptions",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-01-12",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[PROD] ReceiveAlarmMessages - Service bus Quota Exceeded",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-01-13",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[PROD] ReceiveAlarmMessages - Service bus Quota Exceeded//TS01 - Implement Singleton Service Bus sender",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[ALL] Filter - Blocked on an unexisting filter/run day logs analysis",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-01-15",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "run day logs analysis",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-01-16",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT01_TS01 : Analyze tool of automated tests",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-01-19",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT01_TS01 : Analyze tool of automated tests",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-01-20",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT01_TS01 : Analyze tool of automated tests",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-01-21",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[DEV] Exceptions - TCP Provider error 35",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-01-22",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[DEV] Exceptions - TCP Provider error 35",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-01-23",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "ALL - Messages from dispatch function exceeded the maximum size",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-01-26",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "ALL - Messages from dispatch function exceeded the maximum size",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-01-27",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "ALL - Messages from dispatch function exceeded the maximum size",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-01-28",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "TS01 - Implement Singleton Service Bus sender",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-01-29",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[PROD] Synoptic - Error while retriving data",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-01-30",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "TS01 - Implement Singleton Service Bus sender",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-02-02",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[PROD] ADF Pipelines - Automatons stocks histories failed since 30/01// TS01 - Implement Singleton & Scoped Service Bus sender",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-02-03",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT09_TS01 - Analyzis of handling \"config_pupitre\"",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-02-04",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT09_TS01 - Analyzis of handling \"config_pupitre\"",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-02-05",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "US10c - NA can't edit his own configuration",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-02-06",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT24_US12 - NA - Limitate the possibility to delete all users",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-02-09",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[DEV & INT] ADF pipelines - Execution failed because of missing permissions - Migration Cellenza",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-02-10",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[QA] Exceptions - ConsumeHydrogenTelemetry",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-02-11",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[QA] Exceptions - ConsumeHydrogenTelemetry",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-02-12",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "TS13a - NA - Edit the permission of GET /networks",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-02-13",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[ALL] E.API - PageSize < 10 is not recognize",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-02-16",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "fixing test for NetworkService and for hydrogenNomogramAccessor",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-02-17",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[PROD] - Lot of timeout exceptions",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-02-18",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT27_TS03 - Analysis of the update of a site configuration in ADT",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-02-19",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT27_TS03 - Analysis of the update of a site configuration in ADT",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-02-20",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT27_TS03 - Analysis of the update of a site configuration in ADT",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-02-23",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT27_TS03 - Analysis of the update of a site configuration in ADT",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-02-24",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT27_TS03 - Analysis of the update of a site configuration in ADT",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-02-25",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT27_TS03 - Analysis of the update of a site configuration in ADT",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-02-26",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "US13b - Networks - As a NA I want to display Networks page",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-02-27",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[DEV & INT] Account - Errors in user forms and permissions",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-03-02",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[DEV & INT] Account - Errors in user forms and permissions",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[DEV & INT] Account - Errors in user forms and permissions",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[DEV] Exceptions - RuleEngineFunction",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-03-05",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[QA] Exceptions - ReceiveAlarmMessages",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-03-06",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[DEV] Exceptions - RuleEngineFunction",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[DEV] Exceptions - RuleEngineFunction",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[DEV] Exceptions - RuleEngineFunction",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[DEV] Exceptions - RuleEngineFunction",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-03-12",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2026-03-13",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2026-03-16",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2026-03-17",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2026-03-18",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2026-03-19",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2026-03-20",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2026-03-23",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT09_TS02 - Desactivate an equipement if it's withdraw from 'config_pupitre'",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-03-24",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT09_TS02 - Desactivate an equipement if it's withdraw from 'config_pupitre'",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-03-25",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT09_TS02 - Desactivate an equipement if it's withdraw from 'config_pupitre'",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-03-26",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT09_TS02 - Desactivate an equipement if it's withdraw from 'config_pupitre'",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-03-27",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT09_TS02 - Desactivate an equipement if it's withdraw from 'config_pupitre'",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-03-30",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT09_TS02 - Desactivate an equipement if it's withdraw from 'config_pupitre'",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-03-31",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT09_TS02 - Desactivate an equipement if it's withdraw from 'config_pupitre'",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-04-01",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT09_TS02 - Desactivate an equipement if it's withdraw from 'config_pupitre'",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-04-02",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT09_TS02 - Desactivate an equipement if it's withdraw from 'config_pupitre'",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-04-03",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT09_TS02 - Desactivate an equipement if it's withdraw from 'config_pupitre'",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-04-06",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2026-04-07",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2026-04-08",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT12_US14 - Add favorite competitors sites",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-04-09",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2026-04-10",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT12_US14 - Add favorite competitors sites",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-04-13",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT12_US14 - Add favorite competitors sites",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-04-14",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT12_US14 - Add favorite competitors sites",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-04-15",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT12_US14 - Add favorite competitors sites",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-04-16",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT12_US14 - Add favorite competitors sites",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-04-17",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT12_US14 - Add favorite competitors sites",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-04-20",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT12_US14 - Add favorite competitors sites",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-04-21",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT12_US14 - Add favorite competitors sites",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-04-22",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT12_US15 - as a user I want to receive a notification when my favorites competitors are changing prices",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-04-23",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT12_US15 - as a user I want to receive a notification when my favorites competitors are changing prices",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-04-24",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT12_US15 - as a user I want to receive a notification when my favorites competitors are changing prices",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-04-27",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT12_US15 - as a user I want to receive a notification when my favorites competitors are changing prices",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-04-28",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT12_US15 - as a user I want to receive a notification when my favorites competitors are changing prices",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT12_US15 - as a user I want to receive a notification when my favorites competitors are changing prices",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-04-30",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT12_US15 - as a user I want to receive a notification when my favorites competitors are changing prices",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-05-01",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2026-05-04",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT12_US15 - as a user I want to receive a notification when my favorites competitors are changing prices",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-05-05",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT12_US15 - as a user I want to receive a notification when my favorites competitors are changing prices",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-05-06",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT12_US15 - as a user I want to receive a notification when my favorites competitors are changing prices",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-05-07",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT12_US15 - as a user I want to receive a notification when my favorites competitors are changing prices",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-05-08",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT12_US15 - as a user I want to receive a notification when my favorites competitors are changing prices",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-05-11",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2026-05-12",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2026-05-13",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT12_US15 - as a user I want to receive a notification when my favorites competitors are changing prices",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "kind": "holiday",
+      "note": "Holiday",
+      "entries": []
+    },
+    {
+      "date": "2026-05-15",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT12_US15 - as a user I want to receive a notification when my favorites competitors are changing prices",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-05-18",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT12_US15 - as a user I want to receive a notification when my favorites competitors are changing prices",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-05-19",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT12_US15 - as a user I want to receive a notification when my favorites competitors are changing prices",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-05-20",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "TS01 - Incremental refresh of powerbi reports",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-05-21",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "TS01 - Incremental refresh of powerbi reports",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "TS01 - Incremental refresh of powerbi reports",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-05-25",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2026-05-26",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2026-05-27",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "TS01 - Incremental refresh of powerbi reports",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-05-28",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2026-05-29",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "TS01 - Incremental refresh of powerbi reports",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-06-01",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Meetings /bug solved for user notification competitor",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-06-02",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Meetings /bug solved for user notification competitor",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-06-03",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT01_TS03 - POC test End to End",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-06-04",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT01_TS03 - POC test End to End",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-06-05",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT01_TS03 - POC test End to End",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-06-08",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT01_TS03 - POC test End to End",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-06-09",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT01_TS03 - POC test End to End",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT01_TS03 - POC test End to End",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT01_TS03 - POC test End to End",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT01_TS03 - POC test End to End",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-06-15",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT01_TS03 - POC test End to End",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-06-16",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT01_TS03 - POC test End to End",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-06-17",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT01_TS03 - POC test End to End",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-06-18",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT01_TS03 - POC test End to End",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-06-19",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT01_TS03 - POC test End to End",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-06-22",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT01_TS03 - POC test End to End",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-06-23",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT01_TS03 - POC test End to End",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-06-24",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[PROD] Synoptic - Wrong storage number",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[PROD] Synoptic - Wrong storage number",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-06-26",
+      "kind": "off",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2026-06-29",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-00 - MagView API Ingest Route",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-06-30",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-00 - MagView API Ingest Route",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-08-03",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Video forn demonstration of pipeline E2E/ Bug zendesk in PRO",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-08-04",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "END OF THE SPRINT",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-08-05",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Testing imp[lementation of local variable for end alarmLifeCycle process s",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-08-06",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Testing imp[lementation of local variable for end alarmLifeCycle process s",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-08-07",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Testing imp[lementation of local variable for end alarmLifeCycle process s",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-08-10",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-01 - HTTP Trigger Function :func-Transactions-Ingest",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-08-11",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-01 - HTTP Trigger Function :func-Transactions-Ingest",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-08-12",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-01 - HTTP Trigger Function :func-Transactions-Ingest",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-08-13",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-01 - HTTP Trigger Function :func-Transactions-Ingest",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "zendek ticket creation inQA bug",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-08-17",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "zendek ticket creation inQA bug",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-08-18",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-01 - HTTP Trigger Function :func-Transactions-Ingest",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-08-19",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-01 - HTTP Trigger Function :func-Transactions-Ingest",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-08-20",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "FT02_TS01 - Updgrade to .Net 10 on ExternalAPI",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-08-21",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[All] Settings > sites - Kimoce field is locked",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-08-24",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Deploying last updgrade of .net 10 for external API / making separe PR for Unit transaction integration into magview / [DEV&INT&QA] Alarms - Alarms name aren't updated",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-08-25",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "Deploying last updgrade of .net 10 for external API / making separe PR for Unit transaction integration into magview / [DEV&INT&QA] Alarms - Alarms name aren't updated",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-08-26",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-02- Service Bus Trigger Function : func-Transactions-Processor",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-08-27",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-02- Service Bus Trigger Function : func-Transactions-Processor",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-02- Service Bus Trigger Function : func-Transactions-Processor",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-02- Service Bus Trigger Function : func-Transactions-Processor",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-02- Service Bus Trigger Function : func-Transactions-Processor",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-09-02",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-02- Service Bus Trigger Function : func-Transactions-Processor",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-02- Service Bus Trigger Function : func-Transactions-Processor",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-02- Service Bus Trigger Function : func-Transactions-Processor",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "kind": "holiday",
+      "note": "",
+      "entries": []
+    },
+    {
+      "date": "2026-09-08",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-02- Service Bus Trigger Function : func-Transactions-Processor",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-02- Service Bus Trigger Function : func-Transactions-Processor",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-02- Service Bus Trigger Function : func-Transactions-Processor",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-02- Service Bus Trigger Function : func-Transactions-Processor",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-02- Service Bus Trigger Function : func-Transactions-Processor",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-02- Service Bus Trigger Function : func-Transactions-Processor",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-09-16",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-02- Service Bus Trigger Function : func-Transactions-Processor",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-02- Service Bus Trigger Function : func-Transactions-Processor",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-02- Service Bus Trigger Function : func-Transactions-Processor",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-02- Service Bus Trigger Function : func-Transactions-Processor",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-09-22",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-02- Service Bus Trigger Function : func-Transactions-Processor",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-02- Service Bus Trigger Function : func-Transactions-Processor",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-02- Service Bus Trigger Function : func-Transactions-Processor",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-02- Service Bus Trigger Function : func-Transactions-Processor",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-02- Service Bus Trigger Function : func-Transactions-Processor",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-09-29",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-02- Service Bus Trigger Function : func-Transactions-Processor",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-02- Service Bus Trigger Function : func-Transactions-Processor",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-02b- Service Bus Trigger Function",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-02b- Service Bus Trigger Function",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-02a- Service Bus Trigger Function : func-Transactions-Processor",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-02a- Service Bus Trigger Function : func-Transactions-Processor",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-02a- Service Bus Trigger Function : func-Transactions-Processor",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-02a- Service Bus Trigger Function : func-Transactions-Processor",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-02a- Service Bus Trigger Function : func-Transactions-Processor",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-03 - Bronze Replay (Disaster Recovery) func-Transactions-Replay",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-03 - Bronze Replay (Disaster Recovery) func-Transactions-Replay",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-03 - Bronze Replay (Disaster Recovery) func-Transactions-Replay",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-03 - Bronze Replay (Disaster Recovery) func-Transactions-Replay",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-03 - Bronze Replay (Disaster Recovery) func-Transactions-Replay",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-03 - Bronze Replay (Disaster Recovery) func-Transactions-Replay",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[INT] Active Alarms - Active Alarms notifications are no longer displayed",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[INT] Active Alarms - Active Alarms notifications are no longer displayed",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "[INT] Alarm History - Alarm History stopped receiving data since 22/10/2026",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-03 - Bronze Replay (Disaster Recovery) func-Transactions-Replay",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-03 - Bronze Replay (Disaster Recovery) func-Transactions-Replay",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-03 - Bronze Replay (Disaster Recovery) func-Transactions-Replay",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-03 - Bronze Replay (Disaster Recovery) func-Transactions-Replay",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-03 - Bronze Replay (Disaster Recovery) func-Transactions-Replay",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-03 - Bronze Replay (Disaster Recovery) func-Transactions-Replay",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-03a - Bronze Replay (Disaster Recovery) func-Transactions-Replay",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-03a - Bronze Replay (Disaster Recovery) func-Transactions-Replay",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "DEV-ING-03a - Bronze Replay (Disaster Recovery) func-Transactions-Replay",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "JIRA TICKER ERROR MADIC BENELUX TEAM",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "kind": "work",
+      "note": "",
+      "entries": [
+        {
+          "description": "",
+          "hours": 8
+        }
+      ]
+    }
+  ]
+}

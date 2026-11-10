@@ -1,0 +1,14 @@
+# Replace uren.example.com with your real domain.
+# Save as Caddyfile on the VPS and run Caddy with HTTPS enabled.
+#
+# uren.example.com {
+#   encode gzip
+#   reverse_proxy 127.0.0.1:3000
+# }
+#
+# Caddy obtains and renews the TLS certificate automatically.
+
+uren.example.com {
+	encode gzip
+	reverse_proxy 127.0.0.1:3000
+}

@@ -1,0 +1,35 @@
+{
+  "name": "uren",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Time registration for MAGVIEW — daily hours, leave, Excel/PDF reports and a read-only manager link.",
+  "scripts": {
+    "dev:api": "node --watch --env-file-if-exists=.env server/index.js",
+    "dev:web": "vite",
+    "build": "vite build",
+    "start": "node --env-file-if-exists=.env server/index.js",
+    "import:legacy": "node --env-file-if-exists=.env server/import-legacy.js",
+    "import:legacy:replace": "node --env-file-if-exists=.env server/import-legacy.js --replace",
+    "test": "node --test test/api.test.js"
+  },
+  "engines": {
+    "node": ">=24"
+  },
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "express": "^5.3.0",
+    "lucide-react": "^1.71.0",
+    "pdfkit": "^0.20.2",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "react-router-dom": "^7.18.5"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.3.0",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.7"
+  }
+}

@@ -1,0 +1,34 @@
+services:
+  uren:
+    image: ${UREN_IMAGE:-uren:latest}
+    build: .
+    container_name: uren
+    restart: unless-stopped
+    ports:
+      # Bind to localhost only. Put Caddy/Nginx in front for HTTPS.
+      - "127.0.0.1:3000:3000"
+    environment:
+      NODE_ENV: production
+      PORT: 3000
+      HOST: 0.0.0.0
+      DATA_DIR: /data
+      APP_TZ: ${APP_TZ:-Europe/Amsterdam}
+      TRUST_PROXY: "true"
+      COOKIE_SECURE: ${COOKIE_SECURE:-true}
+      PUBLIC_URL: ${PUBLIC_URL:-}
+      SEED_ON_EMPTY: ${SEED_ON_EMPTY:-true}
+    volumes:
+      - uren-data:/data
+    healthcheck:
+      test:
+        - CMD
+        - node
+        - -e
+        - "fetch('http://127.0.0.1:3000/api/health').then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))"
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 20s
+
+volumes:
+  uren-data:
